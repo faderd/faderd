@@ -21,7 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="60" height="60"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faderd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faderd&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faderd&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **faderd/faderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
