@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### :hammer_and_wrench: Languages and Tools :
+<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0NGNkZmNmYzcwN2UyZDU5YzhhYWVjMmJmODM1YmZlMTM4NDhhNiZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" align="right" width="100"/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -20,8 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="60" height="60"/>&nbsp;
 </div>
-
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0NGNkZmNmYzcwN2UyZDU5YzhhYWVjMmJmODM1YmZlMTM4NDhhNiZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" align="right" width="100"/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faderd&theme=light&background=ffffff)](https://git.io/streak-stats)
