@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="60" height="60"/>&nbsp;
 </div>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0NGNkZmNmYzcwN2UyZDU5YzhhYWVjMmJmODM1YmZlMTM4NDhhNiZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0NGNkZmNmYzcwN2UyZDU5YzhhYWVjMmJmODM1YmZlMTM4NDhhNiZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" align="right" width="100"/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faderd&theme=light&background=ffffff)](https://git.io/streak-stats)
