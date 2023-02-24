@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### :hammer_and_wrench: Languages and Tools :
 <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0NGNkZmNmYzcwN2UyZDU5YzhhYWVjMmJmODM1YmZlMTM4NDhhNiZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" align="right" width="200"/>
 <div>
+### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
