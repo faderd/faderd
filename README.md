@@ -24,7 +24,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faderd&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faderd&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faderd&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
